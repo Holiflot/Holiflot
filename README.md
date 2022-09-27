@@ -16,10 +16,6 @@
 
 <img source ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height "25">
 
-<details>
-  <summary>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [linkedin]: https://www.linkedin.com/in/osman-sar%C4%B1-95761023a/
 [twitter]: https://twitter.com/osman_sarri
