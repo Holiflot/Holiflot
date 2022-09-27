@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Osman Sarı.
+## 👋 Hi there, I’m Osman Sarı.
 ### I’m studying at Gebze Technical University.
 ### I’m currently learning c++ and oop.
 
