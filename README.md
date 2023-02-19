@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Osman Sarı.
 ### I’m studying at Gebze Technical University.
-### I’m currently learning c++ and oop.
+### I learned c++ and oop.
 
 ### Reach out to me 
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align ="left" />][linkedin]
